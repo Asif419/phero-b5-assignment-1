@@ -44,7 +44,7 @@ The `keyof` keyword in TypeScript is used to create a **union of the property na
 
 ---
 
-### 🧠 Why use `keyof`?
+### Why use `keyof`?
 
 - To extract the keys of an object type
 - To enforce that only valid keys are used in functions, lookups, etc.
@@ -52,7 +52,7 @@ The `keyof` keyword in TypeScript is used to create a **union of the property na
 
 ---
 
-### 📦 Example:
+### Example:
 
 ```ts
 type Person = {
